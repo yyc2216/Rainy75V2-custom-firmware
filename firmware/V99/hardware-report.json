@@ -1,0 +1,23 @@
+{
+  "status": "VERIFIED",
+  "sha256": "2b7737a840947ea87494ea91bb41a95dd02629a520a21c81fbd0d93456f92065",
+  "rollback_sha256": "c57612eeaf390c6822866debe1652af6401e9094ec9dd1448006e47d9ce07138",
+  "sync": {
+    "iso_time_BJT": "2026-11-18T17:11:47.477368+08:00",
+    "epoch_seconds": 848337107,
+    "device_seconds": 848337107,
+    "nonce": 27609
+  },
+  "ordinary_query": 848337107,
+  "ordinary_query_after": 848337110,
+  "bpdc_before": "0x8200",
+  "bpdc_after": "0x8200",
+  "lick_ready_gate_passed": true,
+  "ertc_source": 2,
+  "ertc_enabled": true,
+  "rtc_first": 848337107,
+  "rtc_after": 848337110,
+  "rtc_hardware_advances": true,
+  "backup_power_retention_verified": false,
+  "attempt": 1
+}
