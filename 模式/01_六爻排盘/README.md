@@ -5,6 +5,9 @@
 <p align="center"><img src="起卦界面.png" width="280" alt="起卦界面"> <img src="投币过程.png" width="280" alt="投币过程"></p>
 <p align="center"><img src="排盘结果.png" width="480" alt="排盘结果"></p>
 
+<p align="center"><img src="投币动画.gif" width="480" alt="铜钱连续投掷动画"></p>
+<p align="center"><sub>首发页面 V95 固件模拟画面：连续两次投币，非实机录像。</sub></p>
+
 ## 排盘规则
 
 - 初爻至上爻依次起卦；老阴和老阳为动爻。
